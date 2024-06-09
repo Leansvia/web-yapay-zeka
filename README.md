@@ -1,3 +1,4 @@
+[Chatbot Screenshot](preview.png!)
 # Chatbot Uygulaması
 
 Bu proje, kullanıcıların bir chatbot ile etkileşimde bulunabileceği basit bir web uygulamasıdır. Chatbot, kullanıcı tarafından girilen mesajlara belirli cevaplar verir ve kullanıcı ile etkileşimde bulunur.
