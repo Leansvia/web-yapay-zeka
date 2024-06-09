@@ -1,0 +1,176 @@
+merhaba: Merhaba! Size nasıl yardımcı olabilirim?
+nasılsın: İyiyim, teşekkürler! Siz nasılsınız?
+proje: Projeniz hakkında daha fazla bilgi alabilir miyim?
+felsefe nedir: Felsefe, düşüncenin temellerini, doğayı, bilgiyi, varoluşu ve değerleri sorgulayan bir bilimdir.
+metafizik nedir: Metafizik, varlığın özünü ve doğasını inceleyen felsefe dalıdır.
+ontoloji nedir: Ontoloji, varlığın ve varlık kavramının doğasını ve türlerini inceleyen felsefi disiplindir.
+epistemoloji nedir: Epistemoloji, bilginin kökenini, doğasını, sınırlarını ve geçerliliğini inceleyen felsefe dalıdır.
+etik nedir: Etik, doğru ve yanlış eylemleri, erdem ve kötülüğü, adalet ve vicdanı konu alan felsefi disiplindir.
+estetik nedir: Estetik, güzellik, sanat ve duyusal deneyimlerin doğası ve değerini inceleyen felsefi disiplindir.
+mantık nedir: Mantık, doğru düşünmenin prensiplerini ve yasalarını inceleyen felsefe dalıdır.
+sokrates kimdir: Sokrates, Antik Yunan filozofudur ve Batı felsefesinin kurucularından biri olarak kabul edilir.
+platon kimdir: Platon, Antik Yunan filozofudur ve Batı felsefesinin en önemli temsilcilerinden biridir.
+aristoteles kimdir: Aristoteles, Antik Yunan filozofudur ve Batı felsefesinin kurucularından biri olarak kabul edilir.
+descartes kimdir: Descartes, Rönesans döneminde yaşamış Fransız filozoftur ve modern felsefenin öncülerinden biridir.
+kant kimdir: Kant, Alman filozofudur ve modern felsefenin en etkili isimlerinden biridir.
+nietzsche kimdir: Nietzsche, 19. yüzyıl filozofudur ve nihilizm, ahlak ve güç kavramları üzerine çalışmalarıyla tanınır.
+hegel kimdir: Hegel, Alman idealist filozofudur ve tarihin diyalektik gelişimini ele alan felsefi sistemiyle bilinir.
+stoacılık nedir: Stoacılık, Antik Yunan felsefi okulu olup iç huzur ve erdem arayışını temel alan bir yaşam felsefesidir.
+epikürosçuluk nedir: Epikürosçuluk, Antik Yunan filozof Epikuros'un öğretilerine dayanan bir yaşam felsefesidir.
+skeptisizm nedir: Skeptisizm, şüphecilik olarak da bilinir ve her türlü bilgi ve inancın sorgulanması gerektiğini savunan felsefi yaklaşımdır.
+idealizm nedir: Idealizm, gerçeğin zihin veya bilinç tarafından yaratıldığını veya zihinsel kavramlar tarafından belirlendiğini savunan felsefi görüştür.
+realizm nedir: Realizm, gerçeğin bağımsız ve nesnel bir varlık olduğunu savunan felsefi görüştür.
+pragmatizm nedir: Pragmatizm, bir fikrin ya da teorinin pratik sonuçlarına dayalı olarak değerlendirilmesi gerektiğini savunan felsefi görüştür.
+existentialism nedir: Existentialism, varoluşçu felsefe olarak da bilinir ve bireyin özgürlüğü, sorumluluğu ve varoluşsal kaygılarını vurgular.
+felsefe ve bilim ilişkisi: Felsefe ve bilim, bilgiyi, gerçeği ve dünyayı anlama yolları olarak farklı ancak birbirini tamamlayan disiplinlerdir.
+felsefe ve din ilişkisi: Felsefe ve din, insanın dünya ve evren hakkındaki derin sorularını cevaplamak için farklı perspektifler sunan disiplinlerdir.
+felsefe ve sanat ilişkisi: Felsefe ve sanat, insan deneyimini ve duygularını anlamak için farklı yöntemler ve ifade biçimleri sunan disiplinlerdir.
+felsefe tarihi: Felsefe, Antik Yunan'dan günümüze kadar uzanan zengin bir tarihe sahiptir ve birçok önemli filozof ve akımı içerir.
+felsefi akımlar: Felsefe, tarih boyunca birçok akım ve okulu bünyesinde barındırmıştır; platonculuk, aristotelcilik, neoplatonizm gibi.
+felsefe örnekleri: Sokrates'in diyaloğu, Descartes'ın düşünce deneyi, Kant'ın ahlak teorisi gibi felsefi çalışmalar örnek verilebilir.
+felsefe terminolojisi: Metafizik, ontoloji, epistemoloji, etik, estetik, mantık gibi felsefi terimlerin anlamları ve kullanımları.
+sokrates felsefesi: Sokrates'in insan bilgisini sorgulama yöntemi ve erdem arayışı hakkında felsefi görüşleri.
+platon felsefesi: Platon'un idealar kuramı, devlet teorisi ve bilgi anlayışı hakkında felsefi görüşleri.
+aristoteles felsefesi: Aristoteles'in bilim anlayışı, varlık kavrayışı ve etik teorisi hakkında felsefi görüşleri.
+descartes felsefesi: Descartes'ın rasyonalizm anlayışı, kuşkuculuk ve "Cogito, ergo sum" felsefesi hakkında felsefi görüşleri.
+kant felsefesi: Kant'ın ahlak felsefesi, bilgi kuramı ve kategorik imperatif hakkında felsefi görüşleri.
+nietzsche felsefesi: Nietzsche'nin ahlak eleştirisi, güç kavramı ve "Üstün Irk" fikri hakkında felsefi görüşleri.
+hegel felsefesi: Hegel'in diyalektik yöntemi, tarih felsefesi ve mutlak ruh kavramı hakkında felsefi görüşleri.
+stoacılık felsefesi: Stoacıların iç huzur, erdem ve kader anlayışı hakkında felsefi görüşleri.
+epikürosçuluk felsefesi: Epikürosçuların zevk ve acı, ölüm korkusu ve mutluluk arayışı hakkında felsefi görüşleri.
+skeptisizm felsefesi: Skeptiklerin her türlü bilgi ve inancın sorgulanması, şüphecilik ve relatifizm anlayışı hakkında felsefi görüşleri.
+idealizm felsefesi: Idealistlerin gerçeğin zihinsel kavramlarla yaratılması, fenomenalizm ve ontolojik monizm hakkında felsefi görüşleri.
+realizm felsefesi: Realistlerin gerçeğin bağımsız ve nesnel bir varlık olduğunu savunan görüşleri hakkında felsefi görüşleri.
+pragmatizm felsefesi: Pragmatistlerin fikirlerin ve teorilerin pratik sonuçlara dayalı olarak değerlendirilmesi hakkında felsefi görüşleri.
+existentialism felsefesi: Existentialistlerin bireyin özgürlüğü, sorumluluğu ve varoluşsal kaygıları hakkında felsefi görüşleri.
+felsefe ve bilim ilişkisi: Felsefe ve bilim, bilgiyi, gerçeği ve dünyayı anlama yolları olarak farklı ancak birbirini tamamlayan disiplinlerdir.
+html nedir: HTML, Hypertext Markup Language'ın kısaltmasıdır ve web sayfalarının yapısını tanımlayan işaretleme dilidir.
+html tarihçesi: HTML, 1991 yılında Tim Berners-Lee tarafından geliştirilmiş ve web'in temel yapı taşı olmuştur.
+html özellikleri: HTML, yapılandırılmış bir dildir ve web sayfaları için içerik ve yapı oluşturmayı sağlar.
+html örneği: <!DOCTYPE html><html><head><title>Document Title</title></head><body><h1>This is a Heading</h1><p>This is a paragraph.</p></body></html>
+html etiketleri: HTML, çeşitli etiketler aracılığıyla içerik ve yapının tanımlanmasını sağlar; <html>, <head>, <body>, <div>, <p>, <h1> gibi.
+html div nedir: HTML'de <div> etiketi, içerik bloğunu gruplamak için kullanılan ve stil uygulamak için geniş kullanım imkanı sağlayan bir blok elemandır.
+html div örneği: <div style="background-color: lightblue; padding: 20px;"><h2>Div Example</h2><p>This is a div element.</p></div>
+html span nedir: HTML'de <span> etiketi, metin içindeki küçük bir bölgeyi tanımlamak için kullanılır ve genellikle CSS ile stil uygulamak için kullanılır.
+html span örneği: <p>This is a <span style="color: red;">red</span> word.</p>
+html form nedir: HTML'de <form> etiketi, kullanıcıdan veri girişi almak için kullanılır ve genellikle butonlar, metin kutuları, radyo düğmeleri içerir.
+html form örneği: <form action="/submit-form" method="post"><label for="username">Username:</label><input type="text" id="username" name="username"><br><label for="password">Password:</label><input type="password" id="password" name="password"><br><input type="submit" value="Submit"></form>
+html link nedir: HTML'de <a> etiketi, bağlantılar oluşturmak için kullanılır ve href özelliği ile hedef adres belirtilir.
+html link örneği: <a href="https://example.com">Visit Example</a>
+html resim nedir: HTML'de <img> etiketi, web sayfalarında resimleri görüntülemek için kullanılır ve src özelliği ile resmin URL'si belirtilir.
+html resim örneği: <img src="image.jpg" alt="Description of image">
+html tablo nedir: HTML'de <table> etiketi, verileri düzenli bir şekilde göstermek için kullanılır ve <tr>, <th>, <td> gibi etiketler ile yapılandırılır.
+html tablo örneği: <table><tr><th>Name</th><th>Age</th></tr><tr><td>John</td><td>35</td></tr><tr><td>Jane</td><td>30</td></tr></table>
+html liste nedir: HTML'de <ul> ve <ol> etiketleri, sırasız ve sıralı listeler oluşturmak için kullanılır; <li> etiketleri ile içerik tanımlanır.
+html liste örneği: <ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul>
+html meta nedir: HTML'de <meta> etiketi, sayfa hakkında meta bilgiler sağlar ve genellikle karakter seti, açıklama, anahtar kelimeler gibi bilgiler içerir.
+html meta örneği: <meta charset="UTF-8"><meta name="description" content="Web page description"><meta name="keywords" content="HTML, CSS, JavaScript">
+html iframe nedir: HTML'de <iframe> etiketi, başka bir web sayfasını mevcut sayfaya eklemek için kullanılır ve src özelliği ile hedef adres belirtilir.
+html iframe örneği: <iframe src="https://example.com" height="300" width="400"></iframe>
+html semantic elements nedir: HTML'de semantic elements, sayfa içeriğinin anlamını belirtmek için kullanılan ve SEO ve erişilebilirlik için önemli olan etiketlerdir.
+html semantic elements örneği: <header>, <footer>, <nav>, <article>, <section> gibi.
+html css ile ilişkisi: HTML, CSS ile birlikte kullanılarak web sayfalarının yapısını ve görünümünü düzenlemek için kullanılır.
+html javascript ile ilişkisi: HTML, JavaScript ile birlikte kullanılarak web sayfalarına dinamik özellikler eklemek için kullanılır.
+html öğrenme kaynakları: HTML öğrenmek için W3Schools, MDN Web Docs gibi kaynaklar kullanılabilir.
+html dersleri: HTML ile ilgili detaylı dersler ve öğreticiler çeşitli online platformlarda mevcuttur.
+html pratik örnekler: HTML ile pratik örnekler yaparak etiketleri ve yapıları öğrenmek mümkündür.
+html projeleri: HTML kullanarak basit web projeleri oluşturarak pratiğe yönelik uygulamalar yapılabilir.
+html kodları: HTML kodlarını kullanarak sayfa yapıları, formlar, tablolar, listeler oluşturulabilir ve düzenlenebilir.
+css nedir: CSS, Cascading Style Sheets'ın kısaltmasıdır ve HTML veya XML ile yazılmış içeriğin görsel sunumunu tanımlayan bir stil dilidir.
+css tarihçesi: CSS, web sayfalarının görünümünü kontrol etmek için geliştirilmiş ve ilk olarak 1996 yılında W3C tarafından standartlaştırılmıştır.
+css özellikleri: CSS, web sayfalarına renk, font, arka plan, boyut gibi görsel özellikler eklemeyi sağlar ve HTML ile entegre çalışır.
+css örneği: h1 { color: blue; font-size: 24px; }
+css seçicileri: CSS'de seçiciler, belirli HTML öğelerini veya sınıfları hedeflemek için kullanılır; element seçicileri, id seçicileri, class seçicileri gibi.
+css element seçici örneği: p { color: red; }
+css id seçici örneği: #navbar { background-color: black; }
+css class seçici örneği: .button { background-color: blue; }
+css birleşik seçici örneği: div.container { border: 1px solid gray; }
+css evrensel seçici nedir: Evrensel seçici (*), tüm HTML öğelerini hedeflemek için kullanılır ve genellikle sıfırlama stilleri için kullanılır.
+css evrensel seçici örneği: * { margin: 0; padding: 0; }
+css gruplama seçici örneği: h1, h2, h3 { font-family: Arial, sans-serif; }
+css miras seçici nedir: Miras seçici (inheritance), bir öğenin içerdiği diğer tüm öğeler için belirli stil özelliklerini tanımlamak için kullanılır.
+css miras seçici örneği: body { font-family: Arial, sans-serif; }
+css pseudo-seçiciler nedir: Pseudo-seçiciler, öğelerin belirli durumlarında stillendirme yapmak için kullanılır; :hover, :active, :focus gibi.
+css hover pseudo-seçici örneği: a:hover { color: red; }
+css active pseudo-seçici örneği: button:active { background-color: gray; }
+css focus pseudo-seçici örneği: input:focus { border: 2px solid blue; }
+css kombinatörler nedir: CSS kombinatörler, birden fazla seçiciyi birleştirmek için kullanılır; boşluk kombinatörü, > kombinatörü, + kombinatörü gibi.
+css boşluk kombinatörü örneği: div p { margin-bottom: 10px; }
+css > kombinatörü örneği: ul > li { list-style-type: none; }
+css + kombinatörü örneği: h2 + p { margin-top: 20px; }
+css background-color örneği: body { background-color: #f0f0f0; }
+css color örneği: h1 { color: blue; }
+css font-size örneği: p { font-size: 16px; }
+css font-family örneği: body { font-family: 'Arial', sans-serif; }
+css margin örneği: div { margin: 10px; }
+css padding örneği: .box { padding: 15px; }
+css border örneği: .box { border: 1px solid black; }
+css width örneği: img { width: 100%; }
+css height örneği: .container { height: 200px; }
+css display örneği: .menu { display: flex; }
+css position örneği: .modal { position: fixed; }
+css float örneği: .left { float: left; }
+css clear örneği: .clearfix { clear: both; }
+css flexbox nedir: CSS Flexbox, esnek ve etkili bir düzen yönetimi için tasarlanmış bir CSS düzen modelidir.
+css flexbox özellikleri: Flexbox, öğelerin hizalanması, aralarındaki boşluklar, sıralama ve öğelerin boyutları gibi özellikleri kontrol etmeyi sağlar.
+css flexbox örneği: .container { display: flex; justify-content: space-between; align-items: center; }
+css grid nedir: CSS Grid Layout, iki boyutlu düzen yönetimi için tasarlanmış bir CSS düzen modelidir.
+css grid özellikleri: Grid Layout, öğelerin hizalanması, boyutları, sıralaması ve aralarındaki boşlukları kontrol etmeyi sağlar.
+css grid örneği: .container { display: grid; grid-template-columns: 1fr 2fr; grid-gap: 10px; }
+css media query nedir: Media query, ekran boyutlarına veya cihaz özelliklerine göre stil değişiklikleri yapmayı sağlayan CSS özelliğidir.
+css media query örneği: @media (max-width: 768px) { body { font-size: 14px; } }
+css transition nedir: CSS Transition, öğeler arasında geçiş efektleri oluşturmayı sağlayan bir CSS özelliğidir.
+css transition örneği: .button { transition: background-color 0.3s ease; }
+css animation nedir: CSS Animation, öğeler için hareketli ve görsel efektler oluşturmayı sağlayan bir CSS özelliğidir.
+css animation örneği: @keyframes example { 0% { transform: scale(1); } 100% { transform: scale(1.1); } }
+css öğrenme kaynakları: CSS öğrenmek için CSS Tricks, MDN Web Docs gibi kaynaklar kullanılabilir.
+css dersleri: CSS ile ilgili detaylı dersler ve öğreticiler çeşitli online platformlarda mevcuttur.
+css pratik örnekler: CSS ile pratik örnekler yaparak seçiciler, özellikler ve düzenlemeler öğrenmek mümkündür.
+css projeleri: CSS kullanarak basit ve karmaşık web projeleri oluşturarak pratiğe yönelik uygulamalar yapılabilir.
+css kodları: CSS kodları kullanarak element, class ve id seçicileri ile stillendirme yapabilir ve düzenleyebilirsiniz.
+javascript nedir: JavaScript, web sayfalarına dinamik özellikler eklemek için kullanılan bir programlama dilidir.
+javascript tarihçesi: JavaScript, 1995 yılında Netscape Communications Corporation tarafından geliştirilmiştir ve o zamandan beri gelişimi devam etmektedir.
+javascript özellikleri: JavaScript, tarayıcıda çalışan, hafif, nesne tabanlı bir programlama dilidir ve dinamik olarak web sayfalarını kontrol eder.
+javascript örneği: <script> document.getElementById("demo").innerHTML = "Hello JavaScript!"; </script>
+javascript değişken nedir: JavaScript'te değişkenler, veri depolamak için kullanılır ve var, let, const anahtar kelimeleri ile tanımlanır.
+javascript değişken örneği: var x = 5; let y = "Hello"; const PI = 3.14;
+javascript veri türleri: JavaScript'te veri türleri; string, number, boolean, array, object, null, undefined, function gibi çeşitli tipleri içerir.
+javascript string örneği: var name = "John";
+javascript number örneği: var number = 10;
+javascript boolean örneği: var isTrue = true;
+javascript array nedir: JavaScript'te array, bir veri koleksiyonunu tutan ve indekslerle erişilebilen bir nesnedir.
+javascript array örneği: var fruits = ["Apple", "Banana", "Orange"];
+javascript object nedir: JavaScript'te object, anahtar-değer çiftlerini içeren bir nesnedir ve özellikleri ve yöntemleri temsil eder.
+javascript object örneği: var person = { firstName: "John", lastName: "Doe", age: 30 };
+javascript function nedir: JavaScript'te function, belirli bir görevi yerine getiren kod bloğudur ve tekrar tekrar kullanılabilir.
+javascript function örneği: function greet(name) { return "Hello, " + name + "!"; }
+javascript event nedir: JavaScript'te event, bir HTML öğesinde veya tarayıcıda gerçekleşen bir olaydır; click, mouseover, keydown gibi.
+javascript event örneği: <button onclick="myFunction()">Click me</button>
+javascript DOM nedir: JavaScript'te DOM (Document Object Model), web sayfalarını programlı olarak değiştirmek için bir API'dir.
+javascript DOM örneği: document.getElementById("demo").innerHTML = "Hello DOM!";
+javascript querySelector nedir: JavaScript'te querySelector, CSS seçicileri kullanarak belirli bir HTML öğesini seçmek için kullanılır.
+javascript querySelector örneği: var element = document.querySelector(".container");
+javascript fetch API nedir: JavaScript'te fetch API, sunucuyla ağ üzerinden veri alışverişi yapmak için kullanılan modern bir API'dir.
+javascript fetch API örneği: fetch('https://api.example.com/data')
+.then(response => response.json())
+  .then(data => console.log(data));
+javascript async/await nedir: JavaScript'te async/await, asenkron işlemleri daha okunabilir ve yönetilebilir hale getirmek için kullanılan bir yapıdır.
+javascript async/await örneği: async function fetchData() { let response = await fetch('https://api.example.com/data'); let data = await response.json(); console.log(data); }
+javascript arrow function nedir: JavaScript'te arrow function, kısa ve anlaşılır şekilde fonksiyon tanımlamak için kullanılan bir yapıdır.
+javascript arrow function örneği: var add = (a, b) => a + b;
+javascript promise nedir: JavaScript'te promise, asenkron işlemleri daha iyi yönetmek ve sıralamak için kullanılan bir yapıdır.
+javascript promise örneği: var myPromise = new Promise(function(resolve, reject) { setTimeout(function() { resolve("Done!"); }, 1000); });
+javascript local storage nedir: JavaScript'te local storage, tarayıcıda veri depolamak için kullanılan bir API'dir ve oturumlar arası veri saklar.
+javascript local storage örneği: localStorage.setItem("username", "John");
+javascript cookie nedir: JavaScript'te cookie, tarayıcıda veri saklamak için kullanılan küçük bir metin dosyasıdır ve sunucuyla paylaşılır.
+javascript cookie örneği: document.cookie = "username=John";
+javascript error handling nedir: JavaScript'te error handling, hata yönetimi yaparak hata durumlarını yakalamak ve işlemek için kullanılan bir yapıdır.
+javascript error handling örneği: try { undefinedFunction(); } catch(error) { console.error(error); }
+javascript module nedir: JavaScript'te module, kodu mantıklı parçalara bölmek ve tekrar kullanılabilirlik sağlamak için kullanılan bir yapıdır.
+javascript module örneği: // File: utils.js export function sum(a, b) { return a + b; } // File: main.js import { sum } from './utils.js';
+javascript ES6 özellikleri: JavaScript ES6, modern JavaScript'in birçok yeni özelliğini ve gelişmiş sözdizimlerini içerir; arrow functions, let/const, classes gibi.
+javascript öğrenme kaynakları: JavaScript öğrenmek için Mozilla Developer Network (MDN), JavaScript.info gibi kaynaklar kullanılabilir.
+javascript dersleri: JavaScript ile ilgili detaylı dersler ve öğreticiler çeşitli online platformlarda mevcuttur.
+javascript pratik örnekler: JavaScript ile pratik örnekler yaparak fonksiyonlar, olaylar ve asenkron işlemler gibi konuları öğrenmek mümkündür.
+javascript projeleri: JavaScript kullanarak basit ve karmaşık web projeleri oluşturarak pratiğe yönelik uygulamalar yapılabilir.
+javascript kodları: JavaScript kodları kullanarak sayfa etkileşimleri, veri işleme ve API entegrasyonları gibi işlemler yapılabilir.
